@@ -11,7 +11,7 @@ A collaborative coding project by BSIT 2nd year students to practice building sy
 - Practice Java/Python/Web development skills
 
 ## 🧩 Features to Implement
-
+- [ ] Student Grade Management System
 - [ ] Student registration system
 - [ ] Grade calculator
 - [ ] View/edit student list
