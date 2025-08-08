@@ -1,5 +1,6 @@
 # code_with_friends
 “Practice project by BSIT 2nd year students for capstone preparation.”
+System.out.println("Gwapo si potchi");
 # Code with Friends 👨‍💻👩‍💻
 
 A collaborative coding project by BSIT 2nd year students to practice building systems, explore ideas, and prepare for our upcoming Capstone Project.
