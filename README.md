@@ -23,4 +23,3 @@ A collaborative coding project by BSIT 2nd year students to practice building sy
 - @Jillian Loplop
 - @KyleJohn Barros Dullesco
 
-## 📁 Project Structure (Example)
